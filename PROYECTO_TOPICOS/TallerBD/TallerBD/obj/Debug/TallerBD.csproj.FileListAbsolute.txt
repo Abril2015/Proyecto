@@ -1,0 +1,100 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.csprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Properties.Resources.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Principal.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.Clientes.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.insertarCliente.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.Articulos.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.InsertarArticulos.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.Departamentos.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.insertarDepartamento.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.Pedidos.resources
+C:\Users\carlo\OneDrive\documentos\visual studio 2015\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.InsertarPedido.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.exe
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\bin\Debug\TallerBD.pdb
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.csprojResolveAssemblyReference.cache
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.Articulos.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.Pedidos.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.InsertarPedido.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.Departamentos.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.InsertarDepartamento.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.InsertarArticulos.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.Clientes.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.insertarCliente.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Principal.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.Properties.Resources.resources
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.GenerateResource.Cache
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.CoreCompileInputs.cache
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+C:\Users\alexo\Documents\Visual Studio 2012\Projects\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\bin\Debug\TallerBD.exe
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\bin\Debug\TallerBD.pdb
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.csprojResolveAssemblyReference.cache
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.Articulos.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.Pedidos.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.InsertarPedido.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.Departamentos.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.InsertarDepartamento.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.InsertarArticulos.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.Clientes.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.insertarCliente.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Principal.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.Properties.Resources.resources
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.GenerateResource.Cache
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO - RESPALDO\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO - RESPALDO\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+C:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\PROYECTO - RESPALDO\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.exe
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.pdb
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\mscorlib.dll
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\System.Net.Http.dll
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\System.Net.Http.xml
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\es\mscorlib.resources.dll
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\normidna.nlp
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\normnfc.nlp
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\normnfd.nlp
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\normnfkc.nlp
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\normnfkd.nlp
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.csprojResolveAssemblyReference.cache
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.Articulos.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.Pedidos.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.InsertarPedido.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.Departamentos.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.InsertarDepartamento.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.InsertarArticulos.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.Clientes.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.insertarCliente.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Principal.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Properties.Resources.resources
+D:\NUEVO\MATERIAS\TALLER DE BASE DE DATOS\SISTEMAS COMPUTACIONALES\AGO-DIC 2018\PROYECTO_ALUMNOS\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.GenerateResource.Cache
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.exe.config
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.exe
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\bin\Debug\TallerBD.pdb
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.csprojAssemblyReference.cache
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.Articulos.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.Pedidos.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Pedidos.InsertarPedido.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.Departamentos.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Departamentos.InsertarDepartamento.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Articulos.InsertarArticulos.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.Clientes.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Clientes.insertarCliente.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Principal.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Properties.Resources.resources
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.exe
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.pdb
+C:\Users\Usuario\Pictures\PROYECTO_ALUMNOS\TallerBD\TallerBD\obj\Debug\TallerBD.Login.Login.resources
